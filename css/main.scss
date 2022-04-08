@@ -151,3 +151,49 @@ ul.features-list {
         }
     }
 }
+
+.contact-section {
+    text-align: center;
+
+    h2 {
+        font-size: 32px;
+    }
+}
+
+.contact-section label {
+    display: block;
+    margin: 1.5em auto .3em auto;
+    font-weight: bold;
+}
+
+.contact-section textarea, input {
+    display: block;
+    text-align: center; // centers input text
+    width: 80%;
+    font-size: inherit;
+    padding: .5em;
+    margin: auto;
+    border: none;
+    box-shadow: 0 .2em .6em rgba($color: #000000, $alpha: .2);
+    font-family: inherit;
+    border-radius: 1.7em;
+
+    &:focus-visible {
+        outline: white;
+    }
+}
+
+.contact-section input[type="submit"] {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    background: var(--primary-color);
+    max-width: 40%;
+    padding: .8em;
+    margin: 2em auto 4em auto;
+}
+
+.contact-right iframe {
+    max-width: 100%;
+    margin-bottom: 3em;;
+}
