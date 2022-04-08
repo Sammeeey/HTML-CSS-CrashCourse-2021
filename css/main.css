@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
 :root {
   --primary-color: #007af3;
+  --primary-color-dark: #0069d3;
 }
 
 body {
@@ -126,5 +127,42 @@ ul.features-list li::before {
 
 .features-section img {
   display: none;
+}
+
+.testimonials-section {
+  background-color: var(--primary-color);
+  text-align: center;
+  position: relative;
+  padding: .3em;
+}
+
+.testimonials-section li {
+  background-color: var(--primary-color-dark);
+  width: 80%;
+  margin: 8em auto;
+  border-radius: 1.5em;
+}
+
+.testimonial {
+  position: relative;
+  top: -3em;
+}
+
+.testimonials-section img {
+  max-width: 25%;
+  height: auto;
+  border-radius: 50%;
+  border: 0.5em solid var(--primary-color-dark);
+}
+
+.testimonials-section blockquote {
+  color: white;
+  line-height: 2em;
+  padding: 1.5em 0;
+}
+
+.testimonials-section cite {
+  color: white;
+  font-weight: bold;
 }
 /*# sourceMappingURL=main.css.map */
