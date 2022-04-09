@@ -30,7 +30,7 @@ Inofficial code for [Gary Simon's](https://github.com/designcourse) --> [HTML an
 - https://twitter.com/CoderMatching/status/1512510857175085060
 - https://twitter.com/CoderMatching/status/1512663597473841158
 
-![picture of own design template](link to 1-42-05_template_figma.svg or 1-42-05_screenshot_contact_section.jpg)
+![picture of own design template](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/blob/bbb8d227d0ad42856cc57f877de95138471cd0b4/progress_documentation/1-42-05/1-42-05_screenshot_contact_section.jpg)
 
 #### ToDo's
 - [ ] host static page on [Sammeeey.GitHub.io] --> showcase
