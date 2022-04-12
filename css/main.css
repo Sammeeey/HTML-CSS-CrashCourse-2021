@@ -162,6 +162,7 @@ ul.features-list li::before {
   display: block;
   margin: 1.5em auto .3em auto;
   font-weight: bold;
+  font-size: 1.2em;
 }
 
 .contact-section textarea, input {
@@ -176,6 +177,8 @@ ul.features-list li::before {
           box-shadow: 0 0.2em 0.6em rgba(0, 0, 0, 0.2);
   font-family: inherit;
   border-radius: 1.7em;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 .contact-section textarea:focus-visible, input:focus-visible {
@@ -190,6 +193,7 @@ ul.features-list li::before {
   max-width: 40%;
   padding: .8em;
   margin: 2em auto 4em auto;
+  cursor: pointer;
 }
 
 .contact-right iframe {
