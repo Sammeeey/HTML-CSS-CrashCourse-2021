@@ -1,7 +1,7 @@
 # HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!
 Inofficial code for [Gary Simon's](https://github.com/designcourse) --> [HTML and CSS Tutorial for 2021](https://youtu.be/D-h8L5hgW-w)
 
-### [branch main](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/d940e13ac2cf0d63bf8d514e45773373d63c4843) at [1:39:15](https://youtu.be/D-h8L5hgW-w?t=5960) of tutorial
+### [branch 1-39-15-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-39-15-solution) at [1:39:15](https://youtu.be/D-h8L5hgW-w?t=5960) of tutorial
 <!-- d940e13ac2cf0d63bf8d514e45773373d63c4843 -->
 - code of tutorial at 1:39:15
     - just after finishing `.features-section`
@@ -11,7 +11,7 @@ Inofficial code for [Gary Simon's](https://github.com/designcourse) --> [HTML an
 <!-- 273983a030837920e778edadb1a4894aec0e3fb3 -->
 - own design solution for `.testimonials-section` before watching solution
 
-### [branch main](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/f7b646ec73466e55bd5185fb704bcd15fd2f8eee) at [1:42:05](https://youtu.be/D-h8L5hgW-w?t=6125) of tutorial
+### [branch 1-42-05-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-42-05-solution) at [1:42:05](https://youtu.be/D-h8L5hgW-w?t=6125) of tutorial
 <!-- f7b646ec73466e55bd5185fb704bcd15fd2f8eee -->
 - code of tutorial at 1:42:05
     - just after finishing `.testimonials-section`
@@ -37,3 +37,15 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 ### [branch 1-42-05-improvement](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-42-05-improvement) at [1:46:20](https://youtu.be/D-h8L5hgW-w?t=6380) of tutorial
 <!-- f72250ca3dd3543d66278c34604c4195ada2ce74 -->
 - improved design solution for `.contact-section` after watching the tutorials' solution
+
+### [branch 1-46-20-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-46-20-solution) at [1:46:20](https://youtu.be/D-h8L5hgW-w?t=6380) of tutorial
+<!-- 2ff5bf3c564f013aaa0217d34f6d34393bbc918e -->
+- code of tutorial at 1:46:20
+    - just after finishing `.contact-section`
+    - start building `nav`
+
+### [branch 1-50-27-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-50-27-solution) at [1:50:27](https://youtu.be/D-h8L5hgW-w?t=6627) of tutorial
+<!-- 3163784cb3c1cb4f327bc7f99a59119455f5f2c6 -->
+- code of tutorial at 1:50:27
+    - just after finishing `nav`
+    - starting with JavaScript
