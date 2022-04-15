@@ -266,5 +266,8 @@ nav li a:hover {
   .navbar nav ul.primary-nav {
     margin: 0;
   }
+  .navbar nav li.current a {
+    font-weight: bold;
+  }
 }
 /*# sourceMappingURL=main.css.map */
