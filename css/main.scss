@@ -265,7 +265,23 @@ nav {
         ul.primary-nav {
             margin: 0;
         }
-            
+        
+        li.current a {
+            font-weight: bold;
+        }
+
+        .go-premium-cta a {
+            color: var(--primary-color);
+            font-weight: bold;
+            border: solid 2px var(--primary-color);
+            border-radius: 2em;
+
+            &:hover {
+                background: var(--primary-color);
+                color: white;
+            }
+        }
+
     }
 
 }
