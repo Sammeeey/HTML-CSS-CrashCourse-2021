@@ -287,3 +287,44 @@ nav {
     }
 
 }
+
+@media only screen and (min-width: 1080px) {
+    .container {
+        width: 1080px;
+        margin: 0 auto;
+    }
+
+    section {
+        padding: 10em 4em;
+    }
+
+    .hero .container {
+        display: flex;
+        justify-content: space-between;
+        text-align: left;
+        // align-items: center; // I think this might be a better fit to align the left hero column
+        
+        .left-col {
+            margin: 3em 3em 0 5em;
+            
+            h1 {
+                font-size: 3em;
+                width: 90%;
+            }
+        }
+    }
+
+    .hero-img {
+        width: 30%;
+        margin-right: 8em;
+    }
+
+    .hero-cta {
+        display: flex;
+    }
+
+    .primary-cta {
+        margin-right: 1em;
+    }
+
+}
