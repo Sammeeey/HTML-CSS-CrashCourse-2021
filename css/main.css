@@ -285,4 +285,21 @@ nav li a:hover {
     color: white;
   }
 }
+
+@media only screen and (min-width: 1080px) {
+  .hero .container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .hero .container img {
+    max-width: 545px;
+  }
+}
 /*# sourceMappingURL=main.css.map */
