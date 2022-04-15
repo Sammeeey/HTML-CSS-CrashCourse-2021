@@ -287,19 +287,43 @@ nav li a:hover {
 }
 
 @media only screen and (min-width: 1080px) {
+  section {
+    padding: 6em 8em;
+  }
+  .container {
+    max-width: 1080px;
+    margin: 0 auto;
+  }
   .hero .container {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
+    text-align: left;
   }
-  .hero .container img {
-    max-width: 545px;
+  .hero .container .left-col {
+    padding: 5em;
+  }
+  .hero .container .hero-cta {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    white-space: nowrap;
+  }
+  .hero .container .hero-cta .watch-video-cta {
+    padding-left: 1em;
+  }
+  .hero .container .hero-img {
+    max-width: 30%;
+    margin-right: 8em;
   }
 }
 /*# sourceMappingURL=main.css.map */

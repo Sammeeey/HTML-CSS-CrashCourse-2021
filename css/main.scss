@@ -290,13 +290,44 @@ nav {
 
 @media only screen and (min-width: 1080px) {
 
+    section {
+        padding: 6em 8em;
+    }
+
+    .container {
+        max-width: 1080px;
+        margin: 0 auto;
+    }
+
     .hero .container {
         display: flex;
-        justify-content: center;
+        justify-content: space-between;
         align-items: center;
+        text-align: left;
 
-    img {
-        max-width: 545px;
-    }
+        .left-col {
+            padding: 5em;
+
+            // h1 {
+            //     font-size: 3em;
+            //     width: 90%;
+            // }
+
+        }
+        
+        .hero-cta {
+            display: flex;
+            justify-content: space-between;
+            white-space: nowrap;
+
+            .watch-video-cta {
+                padding-left: 1em;
+            }
+        }
+
+        .hero-img {
+            max-width: 30%;
+            margin-right: 8em;
+        }
     }
 }
