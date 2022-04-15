@@ -254,7 +254,6 @@ nav {
 
         ul {
             display: flex;
-            margin: auto; // own addition
         }
 
         a {
@@ -262,7 +261,11 @@ nav {
             font-size: 1em;
             padding: .1em 1em;
         }
-        
+
+        ul.primary-nav {
+            margin: 0;
+        }
+            
     }
 
 }
