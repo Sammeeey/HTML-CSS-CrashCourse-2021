@@ -322,5 +322,26 @@ nav li a:hover {
   .primary-cta {
     margin-right: 1em;
   }
+  ul.features-list {
+    display: block;
+    margin-left: 5em;
+  }
+  ul.features-list li {
+    font-size: 1.4em;
+  }
+  ul.features-list li:before {
+    width: 30px;
+    height: 30px;
+  }
+  .features-section {
+    position: relative;
+  }
+  .features-section img {
+    position: absolute;
+    display: block;
+    right: 0;
+    width: 350px;
+    bottom: -2em;
+  }
 }
 /*# sourceMappingURL=main.css.map */
