@@ -366,18 +366,17 @@ nav {
 
         .container {
             display: flex;
+            justify-content: space-between;
         }
     }
 
     .contact-right {
-        position: absolute;
-        right: 0;
-        top: 0;
-        width: 45%;
-        height: 100%;
+        display: flex;
+        align-items: center;
     }
 
     iframe {
-        height: 100%;
+        width: 34em;
+        height: 38em;
     }
 }
