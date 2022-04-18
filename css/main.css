@@ -337,11 +337,37 @@ nav li a:hover {
     position: relative;
   }
   .features-section img {
-    position: absolute;
     display: block;
+    position: absolute;
     right: 0;
     width: 350px;
     bottom: -2em;
+  }
+  .testimonials-section ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .testimonials-section ul li {
+    margin: 0 1em;
+  }
+  .contact-section {
+    position: relative;
+  }
+  .contact-section .container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .contact-right {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 45%;
+    height: 100%;
+  }
+  iframe {
+    height: 100%;
   }
 }
 /*# sourceMappingURL=main.css.map */
