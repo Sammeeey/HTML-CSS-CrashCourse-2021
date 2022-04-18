@@ -100,6 +100,14 @@ section {
 section.features-section {
     background: #20272e;
     color: white;
+
+    .blue-box {
+        display: none;
+    }
+
+    .dots {
+        display: none;
+    }
 }
 
 ul.features-list {
@@ -380,4 +388,30 @@ nav {
     iframe {
         height: 100%;
     }
+}
+
+@media only screen and (min-width: 1480px) {
+    // .container {
+    //     width: 1080px;
+    //     margin: 0 auto;
+    // }
+
+    #blue-box {
+        display: block;
+        background-color: var(--primary-color);
+        width: 150px;
+        height: 450px;
+        position: absolute;
+        top: -80px;
+        left: 0;
+    }
+    
+    #dots {
+        display: block;
+        width: 150px;
+        height: auto;
+        left: 60px;
+        top: 150px;
+    }
+
 }

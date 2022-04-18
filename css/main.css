@@ -101,6 +101,14 @@ section.features-section {
   color: white;
 }
 
+section.features-section .blue-box {
+  display: none;
+}
+
+section.features-section .dots {
+  display: none;
+}
+
 ul.features-list {
   margin: 0;
   padding-left: .1em;
@@ -368,6 +376,25 @@ nav li a:hover {
   }
   iframe {
     height: 100%;
+  }
+}
+
+@media only screen and (min-width: 1480px) {
+  #blue-box {
+    display: block;
+    background-color: var(--primary-color);
+    width: 150px;
+    height: 450px;
+    position: absolute;
+    top: -80px;
+    left: 0;
+  }
+  #dots {
+    display: block;
+    width: 150px;
+    height: auto;
+    left: 60px;
+    top: 150px;
   }
 }
 /*# sourceMappingURL=main.css.map */
