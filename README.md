@@ -89,8 +89,11 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 - edit navigation based on template at [2:01:20](https://youtu.be/D-h8L5hgW-w?t=7246)
 	- make *GO PREMIUM* button in navbar stand out
 
-### [branch 2-02-55-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-02-55-solution) at [2:02:55](https://youtu.be/D-h8L5hgW-w?t=7375) of tutorial
-<!-- 4505b482830546b70454548539b01fc1dfb3e59a -->
-- code of tutorial at 2:02:55
+### [branch 2-04-15-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-04-15-solution) at [2:04:15](https://youtu.be/D-h8L5hgW-w?t=7455) of tutorial
+<!-- 79059d4d75de701217421216343af974e3be9580 -->
+- code of tutorial at 2:04:15
     - make *GO PREMIUM* button in navbar blue and changing on hover
     - almost same result as on [branch 2-01-20](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-01-20) (see above) but slightly different approach
+    ---
+    - just before splitting hero section in two columns
+	- based on template at [2:04:25](https://youtu.be/D-h8L5hgW-w?t=7465)
