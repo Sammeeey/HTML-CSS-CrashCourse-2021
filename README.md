@@ -11,15 +11,15 @@ Inofficial code for [Gary Simon's](https://github.com/designcourse) --> [HTML an
 <!-- 273983a030837920e778edadb1a4894aec0e3fb3 -->
 - own design solution for `.testimonials-section` before watching solution
 
+### [branch 1-39-15-improvement](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-39-15-improvement) at [1:42:05](https://youtu.be/D-h8L5hgW-w?t=6125) of tutorial
+<!-- 7cdbdc1974db73dc3668f884674aed4d74527bce -->
+- improved design solution for `.testimonials-section` after watching the tutorials' solution
+
 ### [branch 1-42-05-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-42-05-solution) at [1:42:05](https://youtu.be/D-h8L5hgW-w?t=6125) of tutorial
 <!-- f7b646ec73466e55bd5185fb704bcd15fd2f8eee -->
 - code of tutorial at 1:42:05
     - just after finishing `.testimonials-section`
     - explaining goal of `.contact-section`
-
-### [branch 1-39-15-improvement](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-39-15-improvement) at [1:42:05](https://youtu.be/D-h8L5hgW-w?t=6125) of tutorial
-<!-- 7cdbdc1974db73dc3668f884674aed4d74527bce -->
-- improved design solution for `.testimonials-section` after watching the tutorials' solution
 
 ### [branch 1-42-05](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-42-05) at [1:42:05](https://youtu.be/D-h8L5hgW-w?t=6125) of tutorial
 <!-- 8dc01d486c156226ca75cc47c909ad5b273a13ba -->
@@ -72,14 +72,20 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 
 ### [branch 2-00-55](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-00-55) at [2:00:55](https://youtu.be/D-h8L5hgW-w?t=7255) of tutorial
 <!-- 54733059d6f8517049ae014c9e74c58429cfb87a -->
-- apply margin auto to position .navbar lists correctly
+- apply margin auto to position .navbar lists
 
 ### [branch 2-01-05-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-01-05-solution) at [2:01:05](https://youtu.be/D-h8L5hgW-w?t=7265) of tutorial
 <!-- d786ef5f188fb302a432cd8f46efeb23223696b0 -->
 - code of tutorial at 2:01:05
     - set .primary-nav margin to 0 to get rid of superfluous spacing on top
 
-### [branch 2-01-20](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-01-20) at [2:00:55](https://youtu.be/D-h8L5hgW-w?t=7280) of tutorial
-<!-- 5e283ab479c6ac529ec1f3e8c125ef40784bc1af -->
+### [branch 2-01-05](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-01-05) at [2:01:05](https://youtu.be/D-h8L5hgW-w?t=7255) of tutorial
+<!-- 54733059d6f8517049ae014c9e74c58429cfb87a -->
 - edit navigation based on template at [2:00:46](https://youtu.be/D-h8L5hgW-w?t=7246)
+	- make *HOME* bold
+
+### [branch 2-01-20](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-01-20) at [2:01:20](https://youtu.be/D-h8L5hgW-w?t=7280) of tutorial
+<!-- e903a86ac64ba2cab5eb373ac13eff197d72ce68 -->
+- edit navigation based on template at [2:01:20](https://youtu.be/D-h8L5hgW-w?t=7246)
+ - make *GO PREMIUM* button stand out
 
