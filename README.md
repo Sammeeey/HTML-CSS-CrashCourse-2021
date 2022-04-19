@@ -69,3 +69,7 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
     - state of site identical to branch 1-54-45
 	    - because I guessed the correct solution
 	    - only trivial change to add new commit message
+
+### [branch 2-00-55](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-54-20) at [2:00:55](https://youtu.be/D-h8L5hgW-w?t=7255) of tutorial
+<!-- 54733059d6f8517049ae014c9e74c58429cfb87a -->
+- apply margin auto to position .navbar lists
