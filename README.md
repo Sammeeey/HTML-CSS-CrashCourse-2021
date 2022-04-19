@@ -87,5 +87,10 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 ### [branch 2-01-20](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-01-20) at [2:01:20](https://youtu.be/D-h8L5hgW-w?t=7280) of tutorial
 <!-- e903a86ac64ba2cab5eb373ac13eff197d72ce68 -->
 - edit navigation based on template at [2:01:20](https://youtu.be/D-h8L5hgW-w?t=7246)
- - make *GO PREMIUM* button stand out
+	- make *GO PREMIUM* button in navbar stand out
 
+### [branch 2-02-55-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-02-55-solution) at [2:02:55](https://youtu.be/D-h8L5hgW-w?t=7375) of tutorial
+<!-- 4505b482830546b70454548539b01fc1dfb3e59a -->
+- code of tutorial at 2:02:55
+    - make *GO PREMIUM* button in navbar blue and changing on hover
+    - almost same result as on [branch 2-01-20](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-01-20) (see above) but slightly different approach
