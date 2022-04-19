@@ -128,3 +128,14 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 <!-- 75d16e7b7f89c6911b6a58805469110a08a1cda9 -->
 - code of tutorial at 2:11:35
 	- after editing .features-section for 1080px screens
+
+### [branch 2-12-55-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-12-55-solution) at [2:12:55](https://youtu.be/D-h8L5hgW-w?t=7975) of tutorial
+<!-- 92daec78e6376c6ea08f8d681e6d53045233594a -->
+- code of tutorial at 2:12:55
+	- just after splitting contact section for 1080px media query
+
+### [branch 2-12-55-improvement](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-12-55-improvement) after watching solution
+<!-- 38ab1ba549d508d3d0be00568c403869bc59ab37 -->
+- improved design solution for splitting contact section for 1080px media query (see above)
+	- after watching solution (see [branch 2-12-55-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/edit/main/README.md#branch-2-12-55-solution-at-21255-of-tutorial) above)
+	- **own edit**: smaller GMaps iframe - rather in the center then at the side
