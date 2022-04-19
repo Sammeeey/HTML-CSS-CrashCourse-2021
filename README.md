@@ -144,3 +144,8 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 <!-- df06a35116e97a8317c84c8398d63ace4c10a128 -->
 - own design solution after adding decorative elements (blue box and dots) to features sections
 	- based on template at [2:13:10](https://youtu.be/D-h8L5hgW-w?t=7990)
+
+### [branch 2-15-25-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-15-25-solution) at [2:15:25](https://youtu.be/D-h8L5hgW-w?t=8125) of tutorial
+<!-- f84050aa029e4e9a34ecab395983820d0c595c9d -->
+- code of tutorial at 2:15:25
+	- just after adding decorative elements to features section (solution for branch [2-13-10-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021#branch-2-13-10-at-21310-of-tutorial))
