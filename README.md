@@ -58,3 +58,7 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 <!-- 62575d2afae7978bd52e4390aa787108baf95636 -->
 - code of tutorial at 1:50:27
     - just after adding first few lines of JavaScript to open mobile menu
+
+### [branch 1-54-20](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-54-20) at [1:54:20](https://youtu.be/D-h8L5hgW-w?t=6860) of tutorial
+<!-- 37bbad2c2a476e859263842094989d263d793ab8 -->
+- added JavaScript code to "remove" aka. close mobile menu again
