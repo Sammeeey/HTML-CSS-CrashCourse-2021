@@ -38,6 +38,10 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 <!-- f72250ca3dd3543d66278c34604c4195ada2ce74 -->
 - improved design solution for `.contact-section` after watching the tutorials' solution
 
+### [branch 1-42-05-improvement-improvement](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-42-05-improvement-improvement) at [1:46:20](https://youtu.be/D-h8L5hgW-w?t=6380) of tutorial
+- improved design solution based on Twitter suggestion by @WolfgegenlichtD:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Third! <br><br>For better readability try:<br><br>- textarea and input left aligned<br>- labels left aligned <br>- label font size same as placeholder font size<br><br>Centered text shouldn&#39;t be used for longer paragraphs. Otherwise the eyes have to jump a lot between beginning and end of lines 👁</p>&mdash; Wolfgang Stefani (@WolfgegenlichtD) <a href="https://twitter.com/WolfgegenlichtD/status/1516285365887197184?ref_src=twsrc%5Etfw">April 19, 2022</a></blockquote>
+
 ### [branch 1-46-20-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-46-20-solution) at [1:46:20](https://youtu.be/D-h8L5hgW-w?t=6380) of tutorial
 <!-- 2ff5bf3c564f013aaa0217d34f6d34393bbc918e -->
 - code of tutorial at 1:46:20
