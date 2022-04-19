@@ -42,8 +42,9 @@ Inofficial code for [Gary Simon's](https://github.com/designcourse) --> [HTML an
 https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-8aad-8befca47a12c.mp4
 
 ### [branch 1-42-05-improvement](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-42-05-improvement) at [1:46:20](https://youtu.be/D-h8L5hgW-w?t=6380) of tutorial
-<!-- f72250ca3dd3543d66278c34604c4195ada2ce74 -->
-- improved design solution for `.contact-section` after watching the tutorials' solution
+<!-- 3a970271bf720b120d5152d52605685da08316d2 -->
+- improved design solution for `.contact-section` (compared to 1-42-05) after watching the tutorials' solution
+	- **own edit**: change font-size, add box-sizing to fit textarea and input inside viewport, add pointer on button
 
 ### [branch 1-42-05-improvement-improvement](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-42-05-improvement-improvement) at [1:46:20](https://youtu.be/D-h8L5hgW-w?t=6380) of tutorial
 - improved design solution based on Twitter suggestion by @WolfgegenlichtD:
