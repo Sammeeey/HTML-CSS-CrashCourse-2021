@@ -162,16 +162,18 @@ ul.features-list {
 
 .contact-section label {
     display: block;
+    text-align: left;
+    width: 80%;
     margin: 1.5em auto .3em auto;
     font-weight: bold;
-    font-size: 1.2em;
+    font-size: 16px;
 }
 
 .contact-section textarea, input {
     display: block;
-    text-align: center; // centers input text
+    text-align: left;
     width: 80%;
-    font-size: inherit;
+    font-size: 16px;
     padding: .5em;
     margin: auto;
     border: none;
@@ -187,10 +189,11 @@ ul.features-list {
 
 .contact-section input[type="submit"] {
     color: white;
+    text-align: center;
     font-size: 18px;
     font-weight: bold;
     background: var(--primary-color);
-    max-width: 40%;
+    max-width: 10em;
     padding: .8em;
     margin: 2em auto 4em auto;
     cursor: pointer;
