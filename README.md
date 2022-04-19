@@ -53,3 +53,8 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 - code of tutorial at 1:50:27
     - just after finishing `nav`
     - starting with JavaScript
+
+### [branch 1-54-20-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-54-20-solution) at [1:54:20](https://youtu.be/D-h8L5hgW-w?t=6860) of tutorial
+<!-- 62575d2afae7978bd52e4390aa787108baf95636 -->
+- code of tutorial at 1:50:27
+    - just after adding first few lines of JavaScript to open mobile menu
