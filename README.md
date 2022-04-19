@@ -1,6 +1,12 @@
 # HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!
 Inofficial code for [Gary Simon's](https://github.com/designcourse) --> [HTML and CSS Tutorial for 2021](https://youtu.be/D-h8L5hgW-w)
 
+## branch stucture
+- XX-XX-XX-solution	--> state of code at the respective time of the tutorial
+	- not literally the solution for the respective XX-XX-XX branch, but rather before starting with own solution
+- XX-XX-XX 		--> own solution for respective time in tutorial (after watching until that time)
+- XX-XX-XX-improvement	--> improved solution for respective time in tutorial and same-named branch (after watching solution, which follows when start watching video from respective time)
+
 ### [branch 1-39-15-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-39-15-solution) at [1:39:15](https://youtu.be/D-h8L5hgW-w?t=5960) of tutorial
 <!-- d940e13ac2cf0d63bf8d514e45773373d63c4843 -->
 - code of tutorial at 1:39:15
@@ -96,4 +102,9 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
     - almost same result as on [branch 2-01-20](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-01-20) (see above) but slightly different approach
     ---
     - just before splitting hero section in two columns
+	- based on template at [2:04:25](https://youtu.be/D-h8L5hgW-w?t=7465)
+
+### [branch 2-04-15](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-04-15) at [2:04:15](https://youtu.be/D-h8L5hgW-w?t=7455) of tutorial
+<!-- 69a2eea43d3a53b357267ee204d8fa4aabeebccd -->
+- after splitting hero section in two columns
 	- based on template at [2:04:25](https://youtu.be/D-h8L5hgW-w?t=7465)
