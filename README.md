@@ -31,6 +31,9 @@ https://user-images.githubusercontent.com/49591562/163987428-02d5121d-558f-408e-
     - just after finishing `.testimonials-section`
     - explaining goal of `.contact-section`
 
+![before-after-improvement-testimonials](https://user-images.githubusercontent.com/49591562/163989324-9798c233-5ab7-480a-ab55-cc43bb7b65c7.png)
+
+
 ### [branch 1-42-05](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-42-05) at [1:42:05](https://youtu.be/D-h8L5hgW-w?t=6125) of tutorial
 <!-- 8dc01d486c156226ca75cc47c909ad5b273a13ba -->
 - own design solution for `.contact-section` before watching solution
@@ -48,6 +51,8 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 <!-- 3a970271bf720b120d5152d52605685da08316d2 -->
 - improved design solution for `.contact-section` (compared to 1-42-05) after watching the tutorials' solution
 	- **own edit**: change font-size, add box-sizing to fit textarea and input inside viewport, add pointer on button
+
+![before-after-improvement-contact](https://user-images.githubusercontent.com/49591562/163989014-eb9f540e-7b9b-45d3-8a24-3814471ee9ff.png)
 
 ### [branch 1-42-05-improvement-improvement](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-42-05-improvement-improvement) at [1:46:20](https://youtu.be/D-h8L5hgW-w?t=6380) of tutorial
 - improved design solution based on Twitter suggestion by @WolfgegenlichtD:
@@ -114,6 +119,8 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 - own design solution after splitting hero section in two columns
 	- based on template at [2:04:25](https://youtu.be/D-h8L5hgW-w?t=7465)
 
+https://user-images.githubusercontent.com/49591562/163988752-7023ff01-56cf-42cd-b60a-ca14a5814b28.mp4
+
 ### [branch 2-04-15-improvement](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-04-15-improvement) after watching solution
 <!-- 79059d4d75de701217421216343af974e3be9580 -->
 - improved design solution for splitting hero section and adjusting general layout
@@ -128,15 +135,25 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 	- adjust overall layout of website to larger screen size
 		- stop .container div's from increasing *infinitely*
 
+https://user-images.githubusercontent.com/49591562/163988840-5d7cb42e-ac6f-43ca-9763-6921e8499a39.mp4
+
+
 ### [branch 2-11-35-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-11-35-solution) at [2:11:35](https://youtu.be/D-h8L5hgW-w?t=7895) of tutorial
 <!-- 75d16e7b7f89c6911b6a58805469110a08a1cda9 -->
 - code of tutorial at 2:11:35
 	- after editing .features-section for 1080px screens
 
+
+https://user-images.githubusercontent.com/49591562/163988417-5c8f92a7-ec02-47db-97a0-3e83e7bc461d.mp4
+
+
 ### [branch 2-12-55-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-12-55-solution) at [2:12:55](https://youtu.be/D-h8L5hgW-w?t=7975) of tutorial
 <!-- 92daec78e6376c6ea08f8d681e6d53045233594a -->
 - code of tutorial at 2:12:55
 	- just after splitting contact section for 1080px media query
+
+https://user-images.githubusercontent.com/49591562/163988245-61a9b3ee-4a47-4724-a8c6-4cf934728d0d.mp4
+
 
 ### [branch 2-12-55-improvement](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-12-55-improvement) after watching solution
 <!-- 38ab1ba549d508d3d0be00568c403869bc59ab37 -->
@@ -146,8 +163,11 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 
 ### [branch 2-13-10](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-13-10) at [2:13:10](https://youtu.be/D-h8L5hgW-w?t=7990) of tutorial
 <!-- df06a35116e97a8317c84c8398d63ace4c10a128 -->
-- own design solution after adding decorative elements (blue box and dots) to features sections
+- own design solution after adding decorative elements (blue box and dots) to features sections (for 1450px screen)
 	- based on template at [2:13:10](https://youtu.be/D-h8L5hgW-w?t=7990)
+
+https://user-images.githubusercontent.com/49591562/163988577-0b19e7c7-ea12-4a78-bb72-2ab6fd2d8b6c.mp4
+
 
 ### [branch 2-15-25-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-15-25-solution) at [2:15:25](https://youtu.be/D-h8L5hgW-w?t=8125) of tutorial
 <!-- f84050aa029e4e9a34ecab395983820d0c595c9d -->
