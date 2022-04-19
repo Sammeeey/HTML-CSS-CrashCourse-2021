@@ -114,3 +114,12 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 <!-- 79059d4d75de701217421216343af974e3be9580 -->
 - improved design solution for splitting hero section and adjusting general layout
 	- after watching solution (see below)
+
+### [branch 2-09-00-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-09-00-solution) at [2:09:00](https://youtu.be/D-h8L5hgW-w?t=7740) of tutorial
+<!-- 9a2701a46ad1f8b56e6a86f70aab008442a181f6 -->
+- code of tutorial at 2:09:00
+- solution for 2-04-15
+	- after splitting .hero section into two columns
+		- based on template at [2:04:25](https://youtu.be/D-h8L5hgW-w?t=7465)
+	- adjust overall layout of website to larger screen size
+		- stop .container div's from increasing *infinitely*
