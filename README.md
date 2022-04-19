@@ -68,7 +68,7 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 
 ### [branch 1-54-20](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-54-20) at [1:54:20](https://youtu.be/D-h8L5hgW-w?t=6860) of tutorial
 <!-- 37bbad2c2a476e859263842094989d263d793ab8 -->
-- added JavaScript code to "remove" aka. close mobile menu again
+- - own design solution for adding JavaScript code to *remove* aka. close mobile menu again
 
 ### [branch 1-54-45-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-54-45-solution) at [1:54:45](https://youtu.be/D-h8L5hgW-w?t=6885) of tutorial
 <!-- f8381dfa1b083dc3d5b6b8268693604a0870adc9 -->
@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 
 ### [branch 2-00-55](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-00-55) at [2:00:55](https://youtu.be/D-h8L5hgW-w?t=7255) of tutorial
 <!-- 54733059d6f8517049ae014c9e74c58429cfb87a -->
-- apply margin auto to position .navbar lists
+- own design solution to position .navbar lists (add margin)
 
 ### [branch 2-01-05-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-01-05-solution) at [2:01:05](https://youtu.be/D-h8L5hgW-w?t=7265) of tutorial
 <!-- d786ef5f188fb302a432cd8f46efeb23223696b0 -->
@@ -88,12 +88,12 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 
 ### [branch 2-01-05](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-01-05) at [2:01:05](https://youtu.be/D-h8L5hgW-w?t=7255) of tutorial
 <!-- 54733059d6f8517049ae014c9e74c58429cfb87a -->
-- edit navigation based on template at [2:00:46](https://youtu.be/D-h8L5hgW-w?t=7246)
+- own design solution for navigation based on template at [2:00:46](https://youtu.be/D-h8L5hgW-w?t=7246)
 	- make *HOME* bold
 
 ### [branch 2-01-20](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-01-20) at [2:01:20](https://youtu.be/D-h8L5hgW-w?t=7280) of tutorial
 <!-- e903a86ac64ba2cab5eb373ac13eff197d72ce68 -->
-- edit navigation based on template at [2:01:20](https://youtu.be/D-h8L5hgW-w?t=7246)
+- own design solution for navigation based on template at [2:00:46](https://youtu.be/D-h8L5hgW-w?t=7246)
 	- make *GO PREMIUM* button in navbar stand out
 
 ### [branch 2-04-15-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-04-15-solution) at [2:04:15](https://youtu.be/D-h8L5hgW-w?t=7455) of tutorial
@@ -107,7 +107,7 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 
 ### [branch 2-04-15](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-04-15) at [2:04:15](https://youtu.be/D-h8L5hgW-w?t=7455) of tutorial
 <!-- 69a2eea43d3a53b357267ee204d8fa4aabeebccd -->
-- after splitting hero section in two columns
+- own design solution after splitting hero section in two columns
 	- based on template at [2:04:25](https://youtu.be/D-h8L5hgW-w?t=7465)
 
 ### [branch 2-04-15-improvement](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-04-15-improvement) after watching solution
@@ -139,3 +139,8 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 - improved design solution for splitting contact section for 1080px media query (see above)
 	- after watching solution (see [branch 2-12-55-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/edit/main/README.md#branch-2-12-55-solution-at-21255-of-tutorial) above)
 	- **own edit**: smaller GMaps iframe - rather in the center then at the side
+
+### [branch 2-13-10](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-13-10) at [2:13:10](https://youtu.be/D-h8L5hgW-w?t=7990) of tutorial
+<!-- df06a35116e97a8317c84c8398d63ace4c10a128 -->
+- own design solution after adding decorative elements (blue box and dots) to features sections
+	- based on template at [2:13:10](https://youtu.be/D-h8L5hgW-w?t=7990)
