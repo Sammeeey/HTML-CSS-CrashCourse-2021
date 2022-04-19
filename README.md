@@ -2,10 +2,11 @@
 Inofficial code for [Gary Simon's](https://github.com/designcourse) --> [HTML and CSS Tutorial for 2021](https://youtu.be/D-h8L5hgW-w)
 
 ## branch stucture
-- XX-XX-XX-solution	--> state of code at the respective time of the tutorial
-	- not literally the solution for the respective XX-XX-XX branch, but rather before starting with own solution
-- XX-XX-XX 		--> own solution for respective time in tutorial (after watching until that time)
-- XX-XX-XX-improvement	--> improved solution for respective time in tutorial and same-named branch (after watching solution, which follows when start watching video from respective time)
+| branch name (structure)  | branch meaning |
+| ------------- | ------------- |
+| XX-XX-XX-solution  | state of code at the respective time of the tutorial<br>(not literally the solution for the respective XX-XX-XX branch, but rather before starting with own solution)  |
+| XX-XX-XX  | state of code at the respective time of the tutorial<br>(not literally the solution for the respective XX-XX-XX branch, but rather before starting with own solution)  | own solution for respective time in tutorial (after watching until that time) |
+| XX-XX-XX-improvement  | improved solution for respective time in tutorial and same-named branch<br>(after watching solution, which follows when start watching video from respective time)  |
 
 ### [branch 1-39-15-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-39-15-solution) at [1:39:15](https://youtu.be/D-h8L5hgW-w?t=5960) of tutorial
 <!-- d940e13ac2cf0d63bf8d514e45773373d63c4843 -->
