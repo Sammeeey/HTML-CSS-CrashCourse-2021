@@ -123,3 +123,8 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 		- based on template at [2:04:25](https://youtu.be/D-h8L5hgW-w?t=7465)
 	- adjust overall layout of website to larger screen size
 		- stop .container div's from increasing *infinitely*
+
+### [branch 2-11-35-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-11-35-solution) at [2:11:35](https://youtu.be/D-h8L5hgW-w?t=7895) of tutorial
+<!-- 75d16e7b7f89c6911b6a58805469110a08a1cda9 -->
+- code of tutorial at 2:11:35
+	- after editing .features-section for 1080px screens
