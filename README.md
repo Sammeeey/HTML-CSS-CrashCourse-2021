@@ -74,6 +74,11 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 <!-- 54733059d6f8517049ae014c9e74c58429cfb87a -->
 - apply margin auto to position .navbar lists correctly
 
+### [branch 2-01-05-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-01-05-solution) at [2:01:05](https://youtu.be/D-h8L5hgW-w?t=7265) of tutorial
+<!-- d786ef5f188fb302a432cd8f46efeb23223696b0 -->
+- code of tutorial at 2:01:05
+    - set .primary-nav margin to 0 to get rid of superfluous spacing on top
+
 ### [branch 2-01-20](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-01-20) at [2:00:55](https://youtu.be/D-h8L5hgW-w?t=7280) of tutorial
 <!-- 5e283ab479c6ac529ec1f3e8c125ef40784bc1af -->
 - edit navigation based on template at [2:00:46](https://youtu.be/D-h8L5hgW-w?t=7246)
