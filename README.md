@@ -56,9 +56,16 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 
 ### [branch 1-54-20-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-54-20-solution) at [1:54:20](https://youtu.be/D-h8L5hgW-w?t=6860) of tutorial
 <!-- 62575d2afae7978bd52e4390aa787108baf95636 -->
-- code of tutorial at 1:50:27
+- code of tutorial at 1:54:20
     - just after adding first few lines of JavaScript to open mobile menu
 
 ### [branch 1-54-20](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-54-20) at [1:54:20](https://youtu.be/D-h8L5hgW-w?t=6860) of tutorial
 <!-- 37bbad2c2a476e859263842094989d263d793ab8 -->
 - added JavaScript code to "remove" aka. close mobile menu again
+
+### [branch 1-54-45-solution](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/1-54-45-solution) at [1:54:45](https://youtu.be/D-h8L5hgW-w?t=6885) of tutorial
+<!-- f8381dfa1b083dc3d5b6b8268693604a0870adc9 -->
+- code of tutorial at 1:54:45
+    - state of site identical to branch 1-54-45
+	    - because I guessed the correct solution
+	    - only trivial change to add new commit message
