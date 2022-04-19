@@ -109,3 +109,8 @@ https://user-images.githubusercontent.com/49591562/162564534-6bc4af71-71b5-46ab-
 <!-- 69a2eea43d3a53b357267ee204d8fa4aabeebccd -->
 - after splitting hero section in two columns
 	- based on template at [2:04:25](https://youtu.be/D-h8L5hgW-w?t=7465)
+
+### [branch 2-04-15-improvement](https://github.com/Sammeeey/HTML-CSS-CrashCourse-2021/tree/2-04-15-improvement) after watching solution
+<!-- 79059d4d75de701217421216343af974e3be9580 -->
+- improved design solution for splitting hero section and adjusting general layout
+	- after watching solution (see below)
