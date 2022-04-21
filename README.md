@@ -1,5 +1,6 @@
 # HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!
 Inofficial code for [Gary Simon's](https://github.com/designcourse) --> [HTML and CSS Tutorial for 2021](https://youtu.be/D-h8L5hgW-w)
+- [related blog post](https://samuelhartmann.de/html-css-tutorial-notes-designcourse-2021) with notes on documentation progess and HTML/CSS/JS basics
 
 ## Final Result of Website
 https://user-images.githubusercontent.com/49591562/163987428-02d5121d-558f-408e-8416-ed9b57e6dd1d.mp4
